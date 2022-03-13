@@ -7,3 +7,12 @@ Projeto feito durante a Mapa Dev Week realizado pelo @devemdobro, onde foram pas
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
 </div>
+
+## 💻 Versão desktop
+<img src="https://github.com/camilavitoriacosta/pokedex/blob/master/src/imagens-projeto/desktop.png" alt="tamanho-desktop-projeto">
+
+## 📱 Versão mobile
+<img width=350px src="https://github.com/camilavitoriacosta/pokedex/blob/master/src/imagens-projeto/mobile.png" alt="tamanho-mobile-projeto">
+
+## Demo
+![Video Demo](https://github.com/camilavitoriacosta/pokedex/blob/master/src/imagens-projeto/Pokedex.gif)
